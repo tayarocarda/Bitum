@@ -1,111 +1,119 @@
+body {
+ width: 1440px;
+ height: 15750px;
+ background: white;
+}
 .first {
-  margin-top: 100px;
-  margin-left: 80px;
+  margin-top: 200px;
 }
 h1 {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 96px;
+  font-size: 76px;
   color: #FFFFFF;
-  margin-top: -462px;
-  margin-left: 845px;
+  margin-top: -352px;
+  margin-left: 605px;
 }
 .second {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 48px;
+  font-size: 38px;
   color: #FFFFFF;
-  margin-top: -76px;
-  margin-left: 452px;
+  margin-top: -58px;
+  margin-left: 303px;
 }
 .third {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 48px;
+  font-size: 38px;
   color: #FFFFFF;
-  margin-top: -47px;
-  margin-left: 1362px;
+  margin-top: -40px;
+  margin-left: 989px;
 }
 .four {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-top: 597px;
-  margin-left: 522px;
+  font-size: 54px;
+  margin-top: 450px;
+  margin-left: 362px;
 }
 .five {
   margin-top: 97px;
-  margin-left: 282px;
+  margin-left: 182px;
 }
 .six {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 622px;
-  margin-top: 194px;
+  font-size: 54px;
+  margin-left: 417px;
+  margin-top: 144px;
 }
 .seven {
 margin-left: -100px;
-}
-.seven1 {
-margin-right: -2000px;
-
 }
 .eight {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 372px;
+  font-size: 54px;
   margin-top: 194px;
+  margin-left: 222px;
 }
 .nine {
   margin-top: 97px;
-  margin-left: 182px;
+  margin-left: 137px;
 }
 .nine1 {
   margin-top: 97px;
-  margin-left: 262px;
+  margin-left: 202px;
 }
 .nine2 {
   margin-top: 97px;
-  margin-left: 242px;
+  margin-left: 192px;
 }
 .ten {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 492px;
+  font-size: 54px;
+  margin-left: 308px;
   margin-top: 194px;
 }
 .eleven {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 412px;
+  font-size: 54px;
+  margin-left: 262px;
+  margin-top: 194px;
+}
+.eleven1 {
+  font-family: "BitumBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  margin-left: 260px;
   margin-top: 194px;
 }
 .twelve {
   margin-top: 97px;
-  margin-left: 268px;
+  margin-left: 198px;
 }
 .thirteen {
   margin-top: 97px;
-  margin-left: 2px;
+  margin-left: -33px;
 }
 .fourteen {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 472px;
+  font-size: 54px;
+  margin-left: 319px;
   margin-top: 20px;
 }
 .fifteen {
@@ -113,60 +121,84 @@ margin-right: -2000px;
   margin-left: 97px;
 }
 .sixteen {
-  margin-top: -992px;
-  margin-left: 1057px;
+  margin-top: -745px;
+  margin-left: 777px;
 }
 .seventeen {
   margin-top: 97px;
-  margin-left: 97px;
+  margin-left: 87px;
 }
 .eighteen {
-  margin-top: -818px;
-  margin-left: 680px;
+  margin-top: -618px;
+  margin-left: 515px;
 }
 .nineteen {
-  margin-top: -818px;
-  margin-left: 1280px;
+  margin-top: -618px;
+  margin-left: 955px;
 }
 .twenty {
-  margin-top: 97px;
-  margin-left: 104px;
+  margin-top: 30px;
+  margin-left: 84px;
+}
+.twenty1 {
+  font-family: "BitumBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  margin-top: -350px;
+  margin-left: 455px;
+}
+.twenty2 {
+  font-family: "BitumBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  margin-top: 23px;
+  margin-left: 455px;
+}
+.twenty3 {
+  font-family: "BitumBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  margin-top: 25px;
+  margin-left: 455px;
 }
 .twentyone {
-  margin-top: 97px;
-  margin-left: 104px;
+  margin-top: 117px;
+  margin-left: 84px;
 }
 .twentytwo {
-  margin-top: -344px;
-  margin-left: 544px;
+  margin-top: -262px;
+  margin-left: 414px;
 }
 .twentythree {
-  margin-top: -344px;
-  margin-left: 994px;
+  margin-top: -262px;
+  margin-left: 754px;
 }
 .twentyfour {
-  margin-top: -344px;
-  margin-left: 1443px;
+  margin-top: -262px;
+  margin-left: 1088px;
 }
 .twentyfive {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
   font-size: 158px;
-  margin-left: 352px;
+  margin-left: 132px;
   margin-top: 97px;
 }
 .twentysix {
   margin-top: 97px;
-  margin-left: 104px;
+  margin-left: 95px;
 }
 .twentyseven {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 128px;
-  margin-left: 392px;
-  margin-top: -217px;
+  font-size: 96px;
+  margin-left: 332px;
+  margin-top: -177px;
 }
 .twentyeight {
   margin-top: 197px;
@@ -176,67 +208,139 @@ margin-right: -2000px;
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 128px;
-  margin-left: 232px;
-  margin-top: -447px;
+  font-size: 76px;
+  margin-left: 242px;
+  margin-top: -357px;
 }
 .thirty {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 128px;
-  margin-left: 352px;
-  margin-top: -7px;
+  font-size: 76px;
+  margin-left: 322px;
+  margin-top: 27px;
 }
 .thirtyone {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 128px;
-  margin-left: 262px;
-  margin-top: -7px;
+  font-size: 76px;
+  margin-left: 265px;
+  margin-top: 27px;
 }
 .thirtytwo {
-  margin-top: -724px;
-  margin-left: 830px;
+  margin-top: -528px;
+  margin-left: 630px;
 }
 .thirtythree {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
+  font-size: 50px;
   color: #FFFFFF;
-  margin-left: 1152px;
-  margin-top: -257px;
+  margin-left: 867px;
+  margin-top: -210px;
 }
 .thirtyfour {
-  margin-top: 267px;
-  margin-left: -20px;
+  width: 1440px;
+  height: 8px;
+  background: black;
+  margin-top: 240px;
+}
+.thirtyfour1 {
+  width: 24px;
+  height: 109px;
+  background: black;
+  margin-left: 266px;
+}
+.thirtyfour2 {
+  width: 24px;
+  height: 109px;
+  background: black;
+  margin-left: 1149px;
+  margin-top: -110px;
+}
+.thirtyfour3 {
+  width: 627px;
+  height: 35px;
+  background: #7CA4E2;
+  margin-left: 104px;
+  border: 8px solid black;
+}
+.thirtyfour4 {
+  width: 617px;
+  height: 35px;
+  background: #FA4A20;
+  margin-left: 711px;
+  border: 8px solid black;
+  margin-top: -51px;
+}
+.thirtyfour5 {
+  width: 1224px;
+  height: 457px;
+  background: white;
+  margin-left: 104px;
+  border: 8px solid black;
+  margin-top: -8px;
+}
+.thirtyfour6 {
+  width: 8px;
+  height: 464px;
+  background: black;
+  margin-top: -468px;
+  margin-left: 711px;
+}
+.victorialine  {
+  margin-top: -407px;
+  margin-left: 159px;
+}
+.bakerlooline  {
+  margin-top: -40px;
+  margin-left: 971px;
+}
+.southboundplatform  {
+  margin-top: 60px;
+  margin-left: 159px;
+}
+.northboundplatform{
+  margin-top: -165px;
+  margin-left: 851px;
+}
+.arrow {
+  margin-top: 40px;
+  margin-left: 159px;
+}
+.arrow2 {
+  margin-top: -60px;
+  margin-left: 1201px;
 }
 .thirtyfive {
   margin-top: 147px;
-  margin-left: 157px;
+  margin-left: 127px;
 }
 .thirtysix {
-  margin-top: 197px;
+  width: 1440px;
+  height: 8px;
+  background: black;
+  margin-top: 120px;
 }
 .thirtyseven {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 97px;
-  margin-top: 157px;
+  font-size: 48px;
+  margin-left: 66px;
+  margin-top: 100px;
 }
 .thirtyeight {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  margin-left: 97px;
-  margin-top: 27px;
+  font-size: 48px;
+  margin-left: 66px;
+  margin-top: 30px;
 }
 .thirtynine {
-  margin-top: -180px;
-  margin-left: 1237px;
+  margin-top: -150px;
+  margin-left: 956px;
 }
