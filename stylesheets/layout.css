@@ -1,20 +1,49 @@
 body {
  width: 1440px;
- height: 15530px;
+ height: 15610px;
  background: white;
  display: block;
 }
 .first {
   margin-top: 138px;
 }
-h1 {
+.redcircle {
+  position: absolute;
+  width: 435px;
+  height: 435px;
+  background: #FA4A20;
+  border: 11px solid black;
+  border-radius: 100%;
+  margin-top: -547px;
+  margin-left: 490px;
+}
+.whitecircle {
+  position: absolute;
+  width: 297px;
+  height: 297px;
+  background: white;
+  border-radius: 100%;
+  margin-top: -464px;
+  margin-left: 568px;
+}
+.bluerectangle {
+  position: absolute;
+  width: 458px;
+  height: 126px;
+  background: #7CA4E2;
+  border: 8px solid black;
+  margin-top: -384px;
+  margin-left: 481px;
+}
+.bitum {
+  position: absolute;
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
   font-size: 76px;
   color: #FFFFFF;
   margin-top: -352px;
-  margin-left: 605px;
+  margin-left: 600px;
 }
 .second {
   font-family: "BitumBold";
@@ -22,7 +51,7 @@ h1 {
   font-weight: 700;
   font-size: 38px;
   color: #FFFFFF;
-  margin-top: -58px;
+  margin-top: -335px;
   margin-left: 303px;
 }
 .third {
@@ -31,7 +60,7 @@ h1 {
   font-weight: 700;
   font-size: 38px;
   color: #FFFFFF;
-  margin-top: -40px;
+  margin-top: -39px;
   margin-left: 989px;
 }
 .four {
@@ -43,8 +72,128 @@ h1 {
   margin-left: 362px;
 }
 .five {
-  margin-top: 97px;
-  margin-left: 192px;
+  position: absolute;
+  width: 650px;
+  height: 415px;
+  background: #FA4A20;
+  border: 8px solid black;
+  border-radius: 5%;
+  margin-top: 90px;
+  margin-left: 600px;
+}
+.whiterectangle {
+  position: absolute;
+  width: 650px;
+  height: 250px;
+  background: white;
+  border: 8px solid black;
+  margin-top: 172px;
+  margin-left: 600px;
+}
+.redcircle2{
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: #FA4A20;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 115px;
+  margin-left: 643px;
+}
+.line{
+  position: absolute;
+  width: 58px;
+  height: 4px;
+  background: black;
+  margin-top: 135px;
+  margin-left: 636px;
+}
+.daytravelcard{
+  position: absolute;
+  margin-top: 127px;
+  margin-left: 716px;
+}
+.grotesk{
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 650px;
+}
+.madein{
+  position: absolute;
+  margin-top: 375px;
+  margin-left: 1048px;
+}
+.designer{
+  position: absolute;
+  margin-top: 465px;
+  margin-left: 857px;
+}
+.redrectangle {
+  position: absolute;
+  width: 650px;
+  height: 415px;
+  background: #FA4A20;
+  border: 8px solid black;
+  border-radius: 5%;
+  margin-top: 360px;
+  margin-left: 170px;
+}
+.whiterectangle2 {
+  position: absolute;
+  width: 650px;
+  height: 250px;
+  background: white;
+  border: 8px solid black;
+  margin-top: 442px;
+  margin-left: 170px;
+}
+.redcircle3{
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: #FA4A20;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 385px;
+  margin-left: 210px;
+}
+.line2{
+  position: absolute;
+  width: 58px;
+  height: 4px;
+  background: black;
+  margin-top: 405px;
+  margin-left: 203px;
+}
+.daytravelcard2{
+  position: absolute;
+  margin-top: 395px;
+  margin-left: 282px;
+}
+.module{
+  position: absolute;
+  margin-top: 490px;
+  margin-left: 217px;
+}
+.madein2{
+  position: absolute;
+  margin-top: 648px;
+  margin-left: 616px;
+}
+.dollars{
+  position: absolute;
+  margin-top: 648px;
+  margin-left: 218px;
+}
+.designer2{
+  position: absolute;
+  margin-top: 736px;
+  margin-left: 390px;
+}
+.logo{
+  position: absolute;
+  margin-top: 723px;
+  margin-left: 206px;
 }
 .six {
   font-family: "BitumBold";
@@ -52,7 +201,7 @@ h1 {
   font-weight: 700;
   font-size: 54px;
   margin-left: 417px;
-  margin-top: 144px;
+  margin-top: 930px;
 }
 .seven {
 margin-left: -100px;
@@ -163,15 +312,167 @@ margin-left: -100px;
   margin-left: 260px;
   margin-top: 644px;
 }
+.twelve1 {
+  width: 1055px;
+  height: 68px;
+  background: #FA4A20;
+  border: 8px solid black;
+  margin-top: 110px;
+  margin-left: 195px;
+}
 .twelve {
-  margin-top: 97px;
-  margin-left: 198px;
+  width: 1055px;
+  height: 1054px;
+  background: white;
+  border: 8px solid black;
+  margin-top: -9px;
+  margin-left: 195px;
+}
+.twelve2 {
+  width: 1064px;
+  height: 8px;
+  background: black;
+  margin-top: -876px;
+  margin-left: 195px;
+  z-index: 1;
+}
+.twelve3 {
+  position: absolute;
+  width: 588px;
+  height: 8px;
+  background: #FA552D;
+  z-index: 1;
+  transform: rotate(90deg);
+  margin-top: 423px;
+  margin-left: -5px;
+}
+.twelve4 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: #FFFFFF;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 110px;
+  margin-left: 260px;
+}
+.twelve5 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: white;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 225px;
+  margin-left: 260px;
+}
+.twelve6 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: white;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 340px;
+  margin-left: 260px;
+}
+.twelve7 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: white;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 455px;
+  margin-left: 260px;
+}
+.twelve8 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: white;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 570px;
+  margin-left: 260px;
+}
+.twelve9 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  background: white;
+  z-index: 2;
+  border: 4px solid black;
+  border-radius: 100%;
+  margin-top: 685px;
+  margin-left: 260px;
+}
+.centralline{
+  position: absolute;
+  margin-top: -150px;
+  margin-left: 270px;
+}
+.eastbound{
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 270px;
+}
+.tottenham{
+  position: absolute;
+  font-family: "BitumLight";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  margin-left: 350px;
+  margin-top: 120px;
+}
+.holborn{
+  position: absolute;
+  font-family: "BitumLightItalic";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 40px;
+  margin-left: 350px;
+  margin-top: 235px;
+}
+.chancery{
+  position: absolute;
+  margin-left: 350px;
+  margin-top: 350px;
+}
+.paul{
+  position: absolute;
+  margin-left: 350px;
+  margin-top: 465px;
+}
+.liverpool{
+  position: absolute;
+  font-family: "BitumBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 350px;
+  margin-top: 580px;
+}
+.bethnal{
+  position: absolute;
+  font-family: "BitumBoldItalic";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 40px;
+  margin-left: 350px;
+  margin-top: 695px;
 }
 .thirteen {
   width: 1440px;
   height: 8px;
   background: black;
-  margin-top: 206px;
+  margin-top: 1086px;
 }
 .thirteen1 {
   width: 1440px;
@@ -371,17 +672,25 @@ margin-left: -100px;
   margin-top: 87px;
   margin-left: 95px;
 }
+.twentysix1 {
+  width: 149px;
+  height: 16px;
+  background: #FA4A20;
+  transform: rotate(45deg);
+  margin-top: -121px;
+  margin-left: 140px;
+}
 .twentyseven {
   font-family: "BitumBold";
   font-style: normal;
   font-weight: 700;
   font-size: 96px;
   margin-left: 322px;
-  margin-top: -177px;
+  margin-top: -65px;
 }
 .twentyeight {
-  margin-top: 197px;
-  margin-left: 104px;
+  margin-top: 167px;
+  margin-left: 100px;
 }
 .twentyeight2 {
   width: 575px;
